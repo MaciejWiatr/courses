@@ -734,3 +734,8 @@ dist
 .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,cypressio,dart,django,elixir,go,node,dotnetcore
+
+videos/
+screenshots/
+reports/
+results/
